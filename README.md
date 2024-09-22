@@ -1,5 +1,6 @@
 Image Text Extraction Windows Forms .Net8 - Eng Mage Ali
  
+![Project](https://github.com/user-attachments/assets/1b28ffd5-bad8-4f1d-983c-7bc0310012e2)
 
 Overview
 The project aims to extract text from images using Optical Character Recognition (OCR). It leverages the Tesseract library to process images and convert them into editable text. The user interface is designed with a modern look, featuring controls to select images, extract text, and display results.
